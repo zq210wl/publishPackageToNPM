@@ -1,6 +1,3 @@
-publishPackageToNPM
-===================
-
 __发布一个say-hello-world的package到npm; 这个package的功能是提供一个sayHelloWorld的方法。__
 
 `注意：因为say-hello-world package已经发布到npm了，所以大家在跟随文档操作的时候需要换个名字。`
