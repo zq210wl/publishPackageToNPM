@@ -41,7 +41,7 @@ __发布一个say-hello-world的package到npm; 这个package的功能是提供�
         sayHelloWorld();
 5. 在命令行中进入`test`目录，然后执行`node hello-world.js`,就会在看到输出：`Hello world !`.
 
-## __如何去更新发布到npm的package？(以刚才发布的say-hello-world为例)__
+## __如何更新发布到npm的package？(以刚才发布的say-hello-world为例)__
 
 `当我们对say-hello-world做了改动就需要更新到npm.`
 
